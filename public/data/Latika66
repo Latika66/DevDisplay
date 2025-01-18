@@ -1,0 +1,15 @@
+{
+  "name": "Latika",
+  "location": "Rajasthan",
+  "bio": "A second year computer science student.Creative and detail-oriented with a passion for crafting user-friendly interfaces , and developing websites.",
+  "avatar": "https://github.com/latika66.png",
+  "portfolio": "https://github.com/latika66",
+  "skills": ["Python", "C/C++", "HTML","Javascript","CSS","UI/UX","Java"],
+  "social": {
+    "GitHub": "https://github.com/latika66",
+    "Twitter": "https://twitter.com/latikaa77",
+    "LinkedIn": "https://www.linkedin.com/in/latika-muteja",
+    "Instagram": "https://www.instagram.com/__latikaa",
+    "Email": "latikamuteja77@gmail.com"
+  }
+}
